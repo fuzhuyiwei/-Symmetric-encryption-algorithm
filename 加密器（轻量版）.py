@@ -1,6 +1,6 @@
 
 while True:
-    a=input("转化信息？\n")
+    a=input("转化信息？、Encrypted information？\n")
     a.upper()
     b=list(a)
     c=[]
