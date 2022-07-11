@@ -1,5 +1,5 @@
 while True:
-    shuru = input("解密信息：\n")
+    shuru = input("解密信息：Decrypt information:\n")
 #asd qwer
     jieguolist = []
     jieguo = ''
